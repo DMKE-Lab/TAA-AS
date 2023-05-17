@@ -23,7 +23,3 @@
 ```
 
 Datasets: { DWY100k/wd_dbp, DWY100k/yg_dbp}
-
-## Datasets
-
-Download the datasets from [OneDrive](https://1drv.ms/u/s!AuQRz5abAH5T2jDOmiMlkqFP8s0Z?e=V6wNWS) and unzip it under the current folder.
